@@ -1,0 +1,50 @@
+html{
+    background-image: linear-gradient(rgb(101, 216, 255), white);
+}
+.header-bar{
+    padding: 10px;
+    text-align: center;
+    background-color: deepskyblue;
+}
+a{
+    font-size: x-large;
+    padding: 20px;
+    color: white;
+    font-weight: 900;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#end-page{
+    padding: 5px;
+    text-align: center;
+    background-color: deepskyblue;
+    margin-top: 30px;
+}
+h1{
+    padding: 30px;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: x-large;
+}
+table{
+    margin: auto;
+}
+th{
+    text-align: center;
+    font-size: xx-large;
+    padding: 20px;
+}
+td{
+    font-size: x-large;
+    text-align: center;
+    padding-top: 20px;
+}
+hr{
+    margin: auto;
+}
+h2{
+    font-size: xx-large;
+    text-align: center;
+    padding: 20px;
+}
